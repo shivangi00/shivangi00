@@ -25,7 +25,7 @@
 ### 🌱 Tech Stack
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivangi00&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ### 🔭 I’m currently working on
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shivangi00&theme=radical&repo=ephemeral-strings)](https://github.com/shivangi00/ephemeral-strings)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shivangi00&theme=radical&repo=ephemeral-strings)](https://github.com/shivangi00/Data-structures-algorithms.git)
 
 <!-- Know more-->
 <!--
