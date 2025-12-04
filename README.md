@@ -26,8 +26,9 @@
 Python, Java, JavaScript
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivangi00&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)-->
 ### 🔭 I’m currently working on
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shivangi00&theme=radical&repo=Data-structures-algorithms)](https://github.com/shivangi00/Data-structures-algorithms.git)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shivangi00&theme=radical&repo=Salud.)](https://github.com/shivangi00/Salud..git)
+<!--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shivangi00&theme=radical&repo=Data-structures-algorithms)](https://github.com/shivangi00/Data-structures-algorithms.git)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shivangi00&theme=radical&repo=Salud.)](https://github.com/shivangi00/Salud..git)-->
+[![Readme Card](https://github.com/shivangi00/advent_of_code_2025)]
 
 <!-- Know more-->
 <!--
